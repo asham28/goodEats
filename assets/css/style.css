@@ -31,8 +31,14 @@ body, html {
     font-weight: bolder;
 }
 
+#logo {
+    font-size: 70px;
+    color: white;
+    margin-top: 10%;
+}
+
 #search-title {
-    margin-top: 20%;
+    margin-top: 2%;
     color: lightblue;
 }
 
