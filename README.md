@@ -17,7 +17,7 @@ https://amynmerchant.github.io/goodEats/
 Deployed using Github.
 
 ## Built With
-* HTML, CSS, Javascript, jQuery
+* HTML, CSS, Javascript, jQuery, Bootstrap
 * AJAX, Firebase and regular expressions.
 
 ## Contributing
